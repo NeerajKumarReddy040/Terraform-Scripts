@@ -1,1 +1,6 @@
-
+## Apply These Below Commands Step by Step
+- Terraform init
+- Terraform validate
+- Terrform plan
+- Terraform apply --auto-approve
+- Terraform destroy --auto-approve
